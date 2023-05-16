@@ -1,0 +1,11 @@
+body{
+    background-color: #fff;
+}
+
+.logo{
+    text-indent: 0%;
+    background: url('logo.jpg');
+    width: 175px;
+    height: 175px;
+
+}
